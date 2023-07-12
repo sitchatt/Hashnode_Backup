@@ -79,7 +79,7 @@ Now, let's make our Pizza bot 🥳. Click on **Create bot**.
     
 * Choose **NO** for COPPA as we are doing it for demo purposes.
     
-* Session timeout section we are keeping by default. You can change as per your convenience.
+* Our session timeout section we are kept by default. You are free to modify it as needed.
     
 * Click on Next.
     
@@ -113,7 +113,7 @@ Now simply come down a bit and under **Sample utterances,** Add your sentences w
     
     You can create a simple response. Also, you can set something interesting 😎.
     
-* Expand the ***Advanced Options &gt; Expand the "Response for acknowledging the user's request" &gt; More response options &gt; In the message group section, add a message &gt; From Top right side 'drop down' &gt; Choose card group &gt; Give the Title (****For us it's "*Hello, Welcome! What would you like to do?") **\&gt; Expand the "Buttons" &gt; Add buttons in key-value format &gt; Update response**
+* Expand the \*\*\*Advanced Options &gt; Expand the "Response for acknowledging the user's request" &gt; More response options &gt; In the message group section, add a message &gt; From Top right side 'drop down' &gt; Choose card group &gt; Give the Title (\*\*\*\*For us it's "\*Hello, Welcome! What would you like to do?") **&gt; Expand the "Buttons" &gt; Add buttons in key-value format &gt; Update response**
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688600040245/0311e5e3-943e-4f87-bad7-cbc5f2dc4652.png align="center")
     
