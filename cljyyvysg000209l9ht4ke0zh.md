@@ -47,7 +47,7 @@ Search for **AWS Event Bridge** and click on the console. and from the left scro
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688427333373/da47f1e3-44a1-4684-986f-31267e64495a.png align="center")
 
-Then, search for Shopify and click on "**Set Up**"
+Then, select **"Set Up"** after searching for Shopify.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688427458085/826538f0-8830-4ecf-8d1d-280a2847a1cd.png align="center")
 
